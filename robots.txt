@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://zayuvalya.github.io/ZUMATROV/sitemap.xml
